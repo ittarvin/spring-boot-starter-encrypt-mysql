@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+cn.zjcw.wlt.starter.encrypt.mysql.factory.AspectFactory,\
+cn.zjcw.wlt.starter.encrypt.mysql.factory.CryptoFactory
